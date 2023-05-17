@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProgrammingProject</string>
+    <string name="google_map">Google Map</string>
+    <string name="calendar">Calendar</string>
+</resources>
