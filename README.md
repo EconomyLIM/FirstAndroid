@@ -1,6 +1,7 @@
 # FirstAndroid
 다양한 기능들을 모두 모아 각각의 기능들을 한번에 이용할 수 있는 어플을 개발했습니다. 
-### 언어: Java jdk11 <br>
+### 언어: Java jdk11
+
 ### Tool: Android Studio
 
 ### 1. 초안
