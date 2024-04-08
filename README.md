@@ -2,10 +2,10 @@
 다양한 기능들을 모두 모아 많은 기능들을 한번에 이용할 수 있는 어플을 기획했습니다. 
 
 ### Used
-Java jdk11 <br>
+<b>Java jdk11 </b> <br>
 Android Studio <br>
 Google Map Api <br>
-Google Firebase b<br>
+Google Firebase <br>
 Google Auth <br>
 
 
