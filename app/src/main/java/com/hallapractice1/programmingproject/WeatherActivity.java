@@ -67,7 +67,7 @@ public class WeatherActivity extends AppCompatActivity {
 
     private void CurrentCall(){
 
-        String url = "http://api.openweathermap.org/data/2.5/weather?q=Wonju&appid=0c2983926253e2d1f42c9e877cdb0cb7\n";
+        String url = "http://api.openweathermap.org/data/2.5/weather?q=Wonju&appid=\n";
 
 
         StringRequest request = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
